@@ -1,7 +1,7 @@
 <script>
+	import Navbar from '../components/Navbar.svelte'
 </script>
 
 <main>
-	<h1>Inicio das configurações</h1>
-	<p>Limpeza de arquivos iniciais</p>
+	<Navbar/>
 </main>
